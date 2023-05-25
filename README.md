@@ -18,7 +18,5 @@
 ### ⚙️  GitHub Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bony03&layout=compact)](https://github.com/Bony03/github-readme-stats)
 
-### 🛠  Tech Stack
-https://img.shields.io/badge/html%20-green
 
 ### 🤝🏻  Connect with Me
